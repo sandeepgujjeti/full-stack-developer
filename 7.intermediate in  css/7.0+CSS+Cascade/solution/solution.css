@@ -1,0 +1,41 @@
+#outer-box {
+  background-color: greenyellow;
+  padding-bottom: 2rem;
+  padding:1rem;
+  
+}
+
+.box {
+  background-color: blue;
+  padding: 10px;
+}
+
+.inner-box {
+  background-color: red;
+}
+.yellow-text{
+  color: palevioletred;
+
+}
+
+p {
+  color: yellow ;
+  color: red;
+  color:aliceblue;
+  margin: 0;
+  padding: 0;
+}
+
+.white-text {
+  color: white;
+}
+#yellow-text{
+  color: red !important;
+
+}
+li{
+  color: #FF1493  ;
+  color: #C71585;
+  color: #E60067;
+
+}
